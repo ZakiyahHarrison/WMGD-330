@@ -1,0 +1,16 @@
+.header {
+    background-color:$blue;
+    color: $white;
+    text-align: center;
+    padding-top: 50px;
+    grid-column: span 4;
+    @include sm {
+        background-color: $red;
+    }
+    @include md {
+        background-color: $green;
+    }
+    @include lg {
+        background-color: $purple;
+    }
+}
