@@ -274,6 +274,14 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/cafe.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/cafe.html",
+      "oF" : 2
+    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
