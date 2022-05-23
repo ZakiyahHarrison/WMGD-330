@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/deploy\/cafe.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/cafe.html",
+      "oF" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -21,11 +29,19 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/article-1.png" : {
-      "ft" : 32768,
-      "iS" : 121800,
+    "\/deploy\/header.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/article-1.png",
+      "oAP" : "\/deploy\/header.html",
+      "oF" : 0
+    },
+    "\/deploy\/img\/bag icon.png" : {
+      "ft" : 32768,
+      "iS" : 400,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/bag icon.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -34,11 +50,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/article-2.png" : {
+    "\/deploy\/img\/Line.png" : {
       "ft" : 32768,
-      "iS" : 120294,
+      "iS" : 137,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/article-2.png",
+      "oAP" : "\/deploy\/img\/Line.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -47,11 +63,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/article-3.png" : {
+    "\/deploy\/img\/Logo.png" : {
       "ft" : 32768,
-      "iS" : 132948,
+      "iS" : 3378,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/article-3.png",
+      "oAP" : "\/deploy\/img\/Logo.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -60,193 +76,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/article-4.png" : {
+    "\/deploy\/img\/search input.png" : {
       "ft" : 32768,
-      "iS" : 121807,
+      "iS" : 2023,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/article-4.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/article-5.png" : {
-      "ft" : 32768,
-      "iS" : 93157,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/article-5.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/collage-1.png" : {
-      "ft" : 32768,
-      "iS" : 795700,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/collage-1.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/collage-2.png" : {
-      "ft" : 32768,
-      "iS" : 289010,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/collage-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/collage-3.png" : {
-      "ft" : 32768,
-      "iS" : 253033,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/collage-3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/cta-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 12600,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cta-1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/cta-2.png" : {
-      "ft" : 32768,
-      "iS" : 22993,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/cta-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 1349544,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/icon-arrow.png" : {
-      "ft" : 32768,
-      "iS" : 507,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/icon-arrow.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/icon-phone.png" : {
-      "ft" : 32768,
-      "iS" : 297,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/icon-phone.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/logo.jpg" : {
-      "ft" : 16384,
-      "iS" : 11810,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/logo.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/social-1.png" : {
-      "ft" : 32768,
-      "iS" : 376,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/social-1.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/social-2.png" : {
-      "ft" : 32768,
-      "iS" : 417,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/social-2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/social-3.png" : {
-      "ft" : 32768,
-      "iS" : 503,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/social-3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/social-4.png" : {
-      "ft" : 32768,
-      "iS" : 346,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/social-4.png",
+      "oAP" : "\/deploy\/img\/search input.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -281,6 +115,22 @@
       "oA" : 0,
       "oAP" : "\/deploy\/cafe.html",
       "oF" : 2
+    },
+    "\/dev\/components\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/footer.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
     },
     "\/dev\/index.kit" : {
       "cB" : 0,
