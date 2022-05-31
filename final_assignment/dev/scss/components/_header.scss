@@ -2,11 +2,18 @@
     background: white;
     padding: 16px;
     display: flex;
+    height: 198px;
+    width: 100%;
+    top: 37px;
+    left: 135px;
     justify-content: space-between;
     align-items: center;
 }
 
 .header__link {
     color:black;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
 }
 
