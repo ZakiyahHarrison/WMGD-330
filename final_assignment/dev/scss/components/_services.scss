@@ -1,0 +1,15 @@
+
+#container{
+    display: flex;
+    background-color: white;
+    align-content: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#container div{
+    align-items: center;
+    margin: 20px;
+    width: 100%;
+}

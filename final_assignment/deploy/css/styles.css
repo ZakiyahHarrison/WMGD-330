@@ -301,9 +301,10 @@ template {
   .container .content {
     grid-area: content; }
 
-body {
+p {
   font-family: 'Outfit', sans-serif;
-  font-size: 18px; }
+  font-size: 18px;
+  font-weight: 300; }
 
 h2, h3, h4, h5, h6 {
   font-family: 'Italiana', sans-serif;
@@ -312,16 +313,16 @@ h2, h3, h4, h5, h6 {
 
 h2 {
   font-family: 'Italiana', sans-serif;
-  font-size: 80;
+  font-size: 60px;
   color: white; }
 
 h1 {
   font-family: 'Italiana', sans-serif;
-  font-size: 80; }
+  font-size: 72px; }
 
 h4 {
   color: white;
-  font-size: 40;
+  font-size: 18px;
   font-family: 'Outfit', sans-serif;
   font-weight: 100; }
 
@@ -433,3 +434,34 @@ h4 {
   padding-left: 50px;
   padding-right: 50px;
   align-items: center; }
+
+#container {
+  display: flex;
+  background-color: white;
+  align-content: center;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 40px; }
+
+#container div {
+  align-items: center;
+  margin: 20px;
+  width: 100%; }
+
+.section-2 {
+  background-color: #A7BBA1;
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+.info1 {
+  float: left;
+  padding-left: 200px;
+  width: 48%;
+  margin: 1%;
+  align-content: center; }
+
+.join {
+  background-color: #B89078;
+  display: flex;
+  height: 300px;
+  padding-bottom: 40px; }
