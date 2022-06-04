@@ -29,6 +29,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/head.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/head.html",
+      "oF" : 0
+    },
     "\/deploy\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -283,6 +291,14 @@
       "oAP" : "\/dev\/components\/footer.html",
       "oF" : 0
     },
+    "\/dev\/components\/head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/head.html",
+      "oF" : 0
+    },
     "\/dev\/components\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -305,6 +321,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/join.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/question.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/question.html",
       "oF" : 0
     },
     "\/dev\/components\/section2.kit" : {
@@ -517,6 +541,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_services.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/question.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/question.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

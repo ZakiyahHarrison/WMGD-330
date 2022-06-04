@@ -460,6 +460,12 @@ h4 {
   margin: 1%;
   align-content: center; }
 
+.s2title {
+  text-align: center; }
+
+.learn {
+  text-align: center; }
+
 .join {
   background-color: #B89078;
   display: flex;
