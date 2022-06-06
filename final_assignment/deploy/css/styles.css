@@ -527,3 +527,15 @@ h4 {
   padding-left: 10px;
   padding-right: 10px;
   margin-bottom: -10px; }
+
+.title {
+  text-align: center; }
+
+.cafeinfo {
+  background-color: #A7BBA1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.info1 {
+  text-align: center; }

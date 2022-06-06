@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/cafe.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/cafe.html",
+      "oF" : 2
+    },
     "\/deploy\/ask.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -23,22 +31,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/cafe.html",
-      "oF" : 0
-    },
-    "\/deploy\/cafeinfo.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/cafeinfo.html",
-      "oF" : 0
-    },
-    "\/deploy\/cafetitle.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/cafetitle.html",
       "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
@@ -75,14 +67,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/hero.html",
-      "oF" : 0
-    },
-    "\/deploy\/hero2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/hero2.html",
       "oF" : 0
     },
     "\/deploy\/img\/bag icon.png" : {
@@ -146,19 +130,6 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/heroimage2.jpg" : {
-      "ft" : 16384,
-      "iS" : 757742,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/heroimage2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -367,43 +338,19 @@
       "oAP" : "\/deploy\/signup.html",
       "oF" : 0
     },
-    "\/dev\/cafe.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/cafe.html",
-      "oF" : 2
-    },
     "\/dev\/components\/ask.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/ask.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/cafeinfo.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/cafeinfo.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/cafetitle.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/cafetitle.html",
       "oF" : 0
     },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/footer.html",
       "oF" : 0
     },
@@ -411,7 +358,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/head.html",
       "oF" : 0
     },
@@ -419,7 +366,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 0
     },
@@ -427,23 +374,15 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/hero.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/hero2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/hero2.html",
       "oF" : 0
     },
     "\/dev\/components\/join.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/join.html",
       "oF" : 0
     },
@@ -451,7 +390,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/pictures.html",
       "oF" : 0
     },
@@ -459,7 +398,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/section2.html",
       "oF" : 0
     },
@@ -467,7 +406,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/services.html",
       "oF" : 0
     },
@@ -475,17 +414,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/components\/signup.html",
       "oF" : 0
-    },
-    "\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -573,36 +504,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/dev\/scss\/components\/_cafeinfo.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_cafeinfo.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/dev\/scss\/components\/_cafetitle.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_cafetitle.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/dev\/scss\/components\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -673,21 +574,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_hero.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/dev\/scss\/components\/_hero2.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_hero2.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -842,6 +728,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
+    },
+    "\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/index.html",
+      "oF" : 2
     }
   },
   "hooks" : [
