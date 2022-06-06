@@ -204,6 +204,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/Plant images.png" : {
+      "ft" : 32768,
+      "iS" : 781327,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Plant images.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Plant Pic Slider.jpg" : {
       "ft" : 16384,
       "iS" : 112741,
@@ -363,6 +376,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/join.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/pictures.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/pictures.html",
       "oF" : 0
     },
     "\/dev\/components\/section2.kit" : {
@@ -565,6 +586,36 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_pictures.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_pictures.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_question.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_question.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_section2.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -590,21 +641,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_services.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/dev\/scss\/components\/question.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/question.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
