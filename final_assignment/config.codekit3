@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/deploy\/ask.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/ask.html",
+      "oF" : 0
+    },
     "\/deploy\/cafe.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -209,6 +217,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/plant4-1.png" : {
+      "ft" : 32768,
+      "iS" : 64510,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/plant4-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/plant4.png" : {
+      "ft" : 32768,
+      "iS" : 65393,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/plant4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/search input.png" : {
       "ft" : 32768,
       "iS" : 2023,
@@ -275,12 +309,20 @@
       "oAP" : "\/deploy\/services.html",
       "oF" : 0
     },
-    "\/dev\/cafe.kit" : {
+    "\/dev\/components\/ask.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/ask.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/cafe.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/cafe.html",
+      "oAP" : "\/dev\/components\/cafe.html",
       "oF" : 2
     },
     "\/dev\/components\/footer.kit" : {
@@ -321,14 +363,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/join.html",
-      "oF" : 0
-    },
-    "\/dev\/components\/question.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/components\/question.html",
       "oF" : 0
     },
     "\/dev\/components\/section2.kit" : {
@@ -406,6 +440,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_ask.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_ask.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

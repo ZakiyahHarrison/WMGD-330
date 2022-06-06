@@ -1,0 +1,22 @@
+
+.ask{
+    border: 5px solid $leafGreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.ask-heading{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -30px;
+}
+
+.ask-email{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: -10px;
+}
