@@ -210,11 +210,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/location icon.png" : {
+    "\/deploy\/img\/locationicon.png" : {
       "ft" : 32768,
       "iS" : 542,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/location icon.png",
+      "oAP" : "\/deploy\/img\/locationicon.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -327,24 +327,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/phone icon.png" : {
+    "\/deploy\/img\/phoneicon.png" : {
       "ft" : 32768,
       "iS" : 501,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/phone icon.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/Plant images.png" : {
-      "ft" : 32768,
-      "iS" : 781327,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/Plant images.png",
+      "oAP" : "\/deploy\/img\/phoneicon.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -384,6 +371,19 @@
       "iS" : 65393,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/plant4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Plantimages.png" : {
+      "ft" : 32768,
+      "iS" : 781327,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Plantimages.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,

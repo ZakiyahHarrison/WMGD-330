@@ -372,23 +372,28 @@ h4 {
 .footer-info {
   display: flex;
   padding-left: 10px;
-  padding-top: 100px; }
+  padding-top: 100px;
+  text-align: center; }
 
 .account-inquiries {
   order: 1;
-  width: 27.5%; }
+  width: 27.5%;
+  text-align: center; }
 
 .resources {
   order: 2;
-  width: 22.5%; }
+  width: 22.5%;
+  text-align: center; }
 
 .shipping {
   order: 4;
-  width: 22.5%; }
+  width: 22.5%;
+  text-align: center; }
 
 .directions {
   order: 5;
-  width: 27.5%; }
+  width: 27.5%;
+  text-align: center; }
 
 .links {
   display: flex;
