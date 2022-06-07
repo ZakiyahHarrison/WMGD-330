@@ -33,6 +33,14 @@
       "oAP" : "\/deploy\/cafeinfo.html",
       "oF" : 0
     },
+    "\/deploy\/cafeinfo2.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/cafeinfo2.html",
+      "oF" : 0
+    },
     "\/deploy\/cafetitle.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -215,6 +223,58 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/menu.png" : {
+      "ft" : 32768,
+      "iS" : 380836,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/menu.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/menu2.png" : {
+      "ft" : 32768,
+      "iS" : 207481,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/menu2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/menu3.png" : {
+      "ft" : 32768,
+      "iS" : 231317,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/menu3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/openhours.png" : {
+      "ft" : 32768,
+      "iS" : 154249,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/openhours.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/Our Story Pic Slider.jpg" : {
       "ft" : 16384,
       "iS" : 76023,
@@ -351,6 +411,22 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/menu.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/menu.html",
+      "oF" : 0
+    },
+    "\/deploy\/menupics.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/menupics.html",
+      "oF" : 0
+    },
     "\/deploy\/services.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -389,6 +465,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/cafeinfo.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/cafeinfo2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/cafeinfo2.html",
       "oF" : 0
     },
     "\/dev\/components\/cafetitle.kit" : {
@@ -439,12 +523,36 @@
       "oAP" : "\/dev\/components\/hero2.html",
       "oF" : 0
     },
+    "\/dev\/components\/hours.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/hours.html",
+      "oF" : 0
+    },
     "\/dev\/components\/join.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/join.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/menupics.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/menupics.html",
       "oF" : 0
     },
     "\/dev\/components\/pictures.kit" : {
@@ -588,6 +696,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_cafeinfo2.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_cafeinfo2.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_cafetitle.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -693,6 +816,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_hours.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_hours.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_join.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -703,6 +841,36 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_join.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_menu.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_menu.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_menupics.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_menupics.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
