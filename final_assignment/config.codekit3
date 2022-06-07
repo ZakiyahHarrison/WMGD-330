@@ -61,6 +61,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/favicon.png" : {
+      "ft" : 32768,
+      "iS" : 1878,
+      "oA" : 0,
+      "oAP" : "\/deploy\/favicon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/head.html" : {
       "cB" : 0,
       "ft" : 8192,
